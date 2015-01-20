@@ -33,6 +33,7 @@ class ViewController: UIViewController {
         messageLabel.text = enterMessageTextField.text
         
         // Changing the color to Blue
+        // And this is a new comment
         messageLabel.textColor = UIColor.blueColor()
         
         enterMessageTextField.text = ""
